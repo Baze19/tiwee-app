@@ -1,0 +1,1 @@
+This is an application used fro creating memories,like,update and delete.
